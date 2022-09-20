@@ -2,9 +2,9 @@
   "users": [
     {
       "id": 1,
-      "nome": "Ana Torre",
+      "nome": "Joao Costa",
       "ativo": true,
-      "email": "a@a.com",
+      "email": "g@g.com",
       "role": 1
     },
     {
@@ -33,13 +33,6 @@
       "nome": "Silvia Souza",
       "ativo": true,
       "email": "s@s.com",
-      "role": 2
-    },
-    {
-      "id": 6,
-      "nome": "Marcia Silva",
-      "ativo": true,
-      "email": "m@m.com",
       "role": 2
     }
   ],
