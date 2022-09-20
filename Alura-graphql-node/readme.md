@@ -1,6 +1,6 @@
 # GraphQL Node.js Example
 
-GraphQL Node.js Exampleis a Node.js implementation to train about GraphQL.
+GraphQL Node.js Example is a Node.js implementation to train about GraphQL.
 
 ## Installation
 
